@@ -1,4 +1,3 @@
-
 function App() {
   return (
     <div>
@@ -6,8 +5,5 @@ function App() {
     </div>
   );
 }
-
-
-// api key: 
 
 export default App;
