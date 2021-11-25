@@ -1,0 +1,81 @@
+{
+  "error": "OK",
+  "limit": 10,
+  "offset": 0,
+  "number_of_page_results": 10,
+  "number_of_total_results": 78681,
+  "status_code": 1,
+  "results": [
+    {
+      "api_detail_url": "https://www.giantbomb.com/api/game/3030-84362/",
+      "date_added": "2021-11-25 00:49:17",
+      "id": 84362,
+      "name": "Burger Kitchen",
+      "image": "https://www.giantbomb.com/a/uploads/scale_medium/16/164924/3330067-0647570623-website.jpg"
+    },
+    {
+      "api_detail_url": "https://www.giantbomb.com/api/game/3030-84361/",
+      "date_added": "2021-11-25 00:18:59",
+      "id": 84361,
+      "name": "Saeko-sensei no o Iroke Blackjack GG",
+      "image": "https://www.giantbomb.com/a/uploads/scale_medium/16/164924/3329396-7823608982-FV3_k.jpg"
+    },
+    {
+      "api_detail_url": "https://www.giantbomb.com/api/game/3030-84360/",
+      "date_added": "2021-11-25 00:13:37",
+      "id": 84360,
+      "name": "Saeko-sensei no o Iroke Blackjack GB",
+      "image": "https://www.giantbomb.com/a/uploads/scale_medium/89/898653/3328578-darwinsdilemma.jpg"
+    },
+    {
+      "api_detail_url": "https://www.giantbomb.com/api/game/3030-84359/",
+      "date_added": "2021-11-24 20:28:42",
+      "id": 84359,
+      "name": "JawDropper 2007",
+      "image": "https://www.giantbomb.com/a/uploads/scale_medium/11/110673/3026329-gb_default-16_9.jpg"
+    },
+    {
+      "api_detail_url": "https://www.giantbomb.com/api/game/3030-84358/",
+      "date_added": "2021-11-24 08:33:19",
+      "id": 84358,
+      "name": "Moon Base",
+      "image": "https://www.giantbomb.com/a/uploads/scale_medium/16/164924/3329874-9427608672-moonb.jpg"
+    },
+    {
+      "api_detail_url": "https://www.giantbomb.com/api/game/3030-84357/",
+      "date_added": "2021-11-24 08:14:47",
+      "id": 84357,
+      "name": "Table Attacker",
+      "image": "https://www.giantbomb.com/a/uploads/scale_medium/16/164924/3329872-5558275647-BookReaderImages.php.jpg"
+    },
+    {
+      "api_detail_url": "https://www.giantbomb.com/api/game/3030-84356/",
+      "date_added": "2021-11-24 01:39:43",
+      "id": 84356,
+      "name": "Men of War II",
+      "image": "https://www.giantbomb.com/a/uploads/scale_medium/33/338034/3329805-1782912301-libra.jpg"
+    },
+    {
+      "api_detail_url": "https://www.giantbomb.com/api/game/3030-84355/",
+      "date_added": "2021-11-24 00:10:42",
+      "id": 84355,
+      "name": "Xess",
+      "image": "https://www.giantbomb.com/a/uploads/scale_medium/16/164924/3329770-2793162983-m7gNJ.jpg"
+    },
+    {
+      "api_detail_url": "https://www.giantbomb.com/api/game/3030-84354/",
+      "date_added": "2021-11-23 11:25:42",
+      "id": 84354,
+      "name": "Morphman",
+      "image": "https://www.giantbomb.com/a/uploads/scale_medium/59/594908/3329638-2557459235-60255.jpg"
+    },
+    {
+      "api_detail_url": "https://www.giantbomb.com/api/game/3030-84353/",
+      "date_added": "2021-11-23 08:46:45",
+      "id": 84353,
+      "name": "Asteroids Recharged",
+      "image": "https://www.giantbomb.com/a/uploads/scale_medium/16/164924/3329594-8938801111-Aster.jpg"
+    }
+  ],
+  "version": "1.0"
+}

@@ -11,57 +11,52 @@ import { motion } from "framer-motion";
 import Game from "../components/Game";
 
 const Home = () => {
+  
   // fetch data and store in redux store
   const dispatch = useDispatch();
   useEffect(() => {
     dispatch(loadGames());
-  });
+  }, []);
 
   // pull data back from redux store
   const { popular, newGames, upcoming } = useSelector((state) => state.games);
 
   return (
-
     <GameList>
-      
       <h2>Upcoming Games</h2>
       <Games>
         {upcoming.map((game) => (
           <Game
             name={game.name}
-            released={game.released}
+            released={game.date_added}
             id={game.id}
-            image={game.background_image}
+            image={game.image}
           ></Game>
         ))}
       </Games>
-
       <h2>Popular Games</h2>
       <Games>
         {popular.map((game) => (
           <Game
             name={game.name}
-            released={game.released}
+            released={game.date_added}
             id={game.id}
-            image={game.background_image}
+            image={game.image}
           ></Game>
         ))}
       </Games>
-
       <h2>New Games</h2>
       <Games>
         {newGames.map((game) => (
           <Game
             name={game.name}
-            released={game.released}
+            released={game.date_added}
             id={game.id}
-            image={game.background_image}
+            image={game.image}
           ></Game>
         ))}
       </Games>
-
     </GameList>
-    
   );
 };
 
